@@ -1,11 +1,11 @@
--![image](https://github.com/huanting/AndroidAnimation/tree/master/screenshots/introduce_1.png)
- +![image](https://github.com/huanting/AndroidAnimation/tree/master/screenshots/introduce_2.png)
- +![image](https://github.com/huanting/AndroidAnimation/tree/master/screenshots/introduce_3.png)
- +![image](https://github.com/huanting/AndroidAnimation/tree/master/screenshots/introduce_2.png)
+-![image](https://github.com/huanting/AndroidAnimation/blob/master/screenshots/introduce_1.jpg)
+ +![image](https://github.com/huanting/AndroidAnimation/blob/master/screenshots/introduce_2.jpg)
+ +![image](https://github.com/huanting/AndroidAnimation/blob/master/screenshots/introduce_3.jpg)
+ +![image](https://github.com/huanting/AndroidAnimation/blob/master/screenshots/introduce_2.jpg)
  +
  +
- + android animation demo£¬Ö÷ÒªÊÇÑ§Ï°Ê¹ÓÃFrame Animation, Tween Animation, Property Animation
- + Tween Animation°üº¬: ScaleAnimation¡¢TranslateAnimation¡¢AlphaAnimation¡¢RotateAnimation
- + Proerty Animation: ObjectAnimatorºÍValueAnimator£¬ÒÔ¼°AnimatorSetµÄÊ¹ÓÃ
+ + android animation demoï¼Œä¸»è¦æ˜¯å­¦ä¹ ä½¿ç”¨Frame Animation, Tween Animation, Property Animation
+ + Tween AnimationåŒ…å«: ScaleAnimationã€TranslateAnimationã€AlphaAnimationã€RotateAnimation
+ + Proerty Animation: ObjectAnimatorå’ŒValueAnimatorï¼Œä»¥åŠAnimatorSetçš„ä½¿ç”¨
  +
  +----
